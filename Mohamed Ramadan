@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>محمد رمضان مصطفي - السيرة الذاتية</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            direction: rtl;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 800px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #444;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>محمد رمضان مصطفي</h1>
+        <p><strong>مهندس جودة</strong></p>
+        <p>بعد الانتهاء من رحلة تعليمية مثيرة للاهتمام، وانا حريص علي بدء مسيرتي المهنية في مجال تعليمي، بحيث تتاح لي الفرصة لتحقيق ذاتي، وتوظيف مهاراتي لتكون عنصراً فعالاً في التطوير علي المستوي الشخصي والمهني.</p>
+        
+        <div class="section">
+            <h2>المعلومات الشخصية</h2>
+            <ul>
+                <li><strong>البريد الإلكتروني:</strong> mohamedtramadan@gmail.com</li>
+                <li><strong>الهاتف:</strong> 01145879044 & 01061773234</li>
+                <li><strong>لينك:</strong> <a href="https://2u.pw/hGIp6sc">https://2u.pw/hGIp6sc</a></li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>التعليم الأكاديمي</h2>
+            <p>2017 : 2021 - جامعة عين شمس - بكالوريوس زراعة - قسم علوم وتكنولوجيا الأغذية والالبان</p>
+        </div>
+        
+        <div class="section">
+            <h2>المهارات</h2>
+            <ul>
+                <li>العمل في فريق</li>
+                <li>التخطيط والتنظيم وإدارة الوقت</li>
+                <li>القدرة علي التكييف والابتكار</li>
+                <li>المرونة والاستماع والتواصل</li>
+                <li>القيادة والعمل تحت ضغط</li>
+                <li>ميكروسوفت اوفيس (جيد)</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>الخبرات المهنية</h2>
+            <p><strong>مهندس جودة</strong></p>
+            <ul>
+                <li>شركة أبو عوف - مصنع سدرة للحلويات - كشري التحرير - مصنع فارم تشيز</li>
+                <li>المراجعة علي النظافة اليومية والاسبوعية لجميع صالات الإنتاج</li>
+                <li>مراقبة جودة المنتجات في الفرع</li>
+                <li>متابعة دراجات حرارة المنتجات باستمرار</li>
+            </ul>
+        </div>
+        
+        <div class="section">
+            <h2>الكورسات والتدريبات</h2>
+            <ul>
+                <li>ICDL</li>
+                <li>HACCP</li>
+                <li>Food Safety</li>
+                <li>Food Quality</li>
+                <li>Gmp</li>
+                <li>Soft skills</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
